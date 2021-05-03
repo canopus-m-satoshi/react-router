@@ -11,7 +11,7 @@ export const UrlParameter = () => {
 
   // URLSearchParams：クエリパラメータないで使える便利なメソッド等を提供
   const query = new URLSearchParams(search);
-  console.log(query);
+  // console.log(query);
 
   return (
     <div>
